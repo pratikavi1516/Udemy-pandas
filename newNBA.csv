@@ -1,0 +1,100 @@
+NAME,TEAM,SALARY,GP,MPG,FG%,3P%,FT%,RPG,APG,BLKPG,STLPG,PPG,POSITION
+Kobe Bryant,Los Angeles Lakers,23500000,1280,36.5,0.451,0.334,0.837,5.3,4.8,0.5,1.5,25.4,SG
+Joe Johnson,Brooklyn Nets,,1048,36.3,0.443,0.371,0.8,4.1,4.2,0.2,0.9,17.3,SF
+Carmelo Anthony,New York Knicks,22458401,,36.5,0.455,0.345,0.811,6.6,3.1,0.5,1.1,25.2,SF
+Dwight Howard,Houston Rockets,21436271,800,,0.579,0.104,0.573,12.8,1.5,2.1,1,18.2,
+Chris Bosh,Miami Heat,20644400,840,35.9,,0.326,0.799,8.6,2,1.1,0.8,19.3,C
+LeBron James,Cleveland Cavaliers,20644400,903,39.3,0.496,,0.746,7.1,6.9,0.8,1.7,27.4,SF
+Chris Paul,Los Angeles Clippers,,688,36.2,0.473,0.361,,4.4,9.9,0.1,2.4,18.7,
+Deron Williams,Brooklyn Nets,19754465,702,35.1,0.448,0.357,0.817,,8.5,0.3,1.1,,PG
+Rudy Gay,Sacramento Kings,19317326,648,35.9,0.451,0.344,0.793,5.8,,0.8,1.3,18.5,SF
+Kevin Durant,Oklahoma City Thunder,18995624,569,38,0.481,0.379,0.881,6.9,3.5,,1.2,27.3,SF
+Derrick Rose,Chicago Bulls,18862876,335,35.9,0.453,0.306,0.815,3.7,,0.4,0.8,20.5,
+Blake Griffin,Los Angeles Clippers,,364,35.6,0.524,0.256,0.653,,3.9,0.6,1,,PF
+Zach Randolph,Memphis Grizzlies,16500000,904,32,0.473,0.263,,9.5,1.8,0.3,0.8,17.1,PF
+LaMarcus Aldridge,Portland Trail Blazers,16006000,638,35.5,0.485,,0.796,8.4,2,1,0.8,19.3,PF
+Marc Gasol,Memphis Grizzlies,15829688,505,33.7,,0.164,0.759,7.9,3,1.6,0.9,14,C
+Kevin Love,Cleveland Cavaliers,15719063,431,,0.448,0.361,0.814,11.9,2.4,0.5,0.7,18.8,PF
+Russell Westbrook,Oklahoma City Thunder,15719062,,33.9,0.432,0.304,0.82,5.2,7.1,0.3,1.7,20.9,
+Brook Lopez,Brooklyn Nets,,400,32.4,0.509,0.059,0.791,7.3,1.3,1.7,0.5,17.7,C
+David Lee,Golden State Warriors,15012000,,31.7,0.533,0.036,0.776,9.5,2.3,0.4,0.8,,PF
+Dwyane Wade,Miami Heat,1.50E+07,770,,0.491,0.288,0.765,4.9,5.9,0.9,1.7,24.1,SG
+Roy Hibbert,Indiana Pacers,14898938,520,26,,0.286,0.748,6.8,1.5,1.9,0.4,11.1,C
+Eric Gordon,New Orleans Pelicans,,360,34.1,0.438,,0.81,2.6,3.4,0.3,1.1,16.9,
+Tyson Chandler,Dallas Mavericks,14846888,910,28.8,0.59,0,,9.3,0.8,1.3,0.6,8.8,C
+John Wall,Washington Wizards,14746000,336,35.9,0.432,0.306,0.787,,8.6,0.6,1.6,17.6,PG
+DeMarcus Cousins,Sacramento Kings,14746000,,30.9,0.463,0.164,0.733,10.5,,1.1,1.4,18.7,C
+James Harden,Houston Rockets,14728844,439,32.2,0.444,0.369,0.853,4.3,4.4,,1.4,19.4,SG
+Chandler Parsons,Dallas Mavericks,14700000,274,34.1,0.469,0.374,0.71,5.1,,0.4,1.1,,
+Al Jefferson,Charlotte Hornets,13500000,759,31.1,0.499,0.131,0.71,,1.6,1.3,0.7,17,C
+Nene Hilario,Washington Wizards,1.30E+07,740,29,0.544,0.111,,6.7,2,0.8,1.2,12.5,PF
+Eric Bledsoe,Phoenix Suns,1.30E+07,1280,36.5,0.451,,0.837,5.3,4.8,0.5,1.5,25.4,PG
+Andrew Bogut,Golden State Warriors,12972973,1048,36.3,,0.371,0.8,4.1,4.2,0.2,0.9,17.3,C
+Derrick Favors,Utah Jazz,,830,,0.455,0.345,0.811,6.6,3.1,0.5,1.1,25.2,
+Rajon Rondo,Dallas Mavericks,12909090,,35.8,0.579,0.104,0.573,12.8,1.5,2.1,1,18.2,PG
+Joakim Noah,Chicago Bulls,,840,35.9,0.495,0.326,0.799,8.6,2,1.1,0.8,19.3,C
+Tony Parker,San Antonio Spurs,12500000,,39.3,0.496,0.342,0.746,7.1,6.9,0.8,1.7,,PG
+Serge Ibaka,Oklahoma City Thunder,12350000,688,,0.473,0.361,0.859,4.4,9.9,0.1,2.4,,
+Andre Iguodala,Golden State Warriors,12289544,702,35.1,,0.357,0.817,3.1,8.5,0.3,1.1,,SG
+Nikola Pekovic,Minnesota Timberwolves,12100000,648,35.9,0.451,,0.793,5.8,2.3,0.8,1.3,18.5,C
+David West,Indiana Pacers,1.20E+07,569,38,0.481,0.379,,6.9,3.5,1,1.2,,
+Kyle Lowry,Toronto Raptors,1.20E+07,335,35.9,0.453,0.306,0.815,,6.5,0.4,0.8,20.5,PG
+Al Horford,Atlanta Hawks,,364,35.6,0.524,0.256,0.653,9.8,,0.6,1,21.5,C
+Nicolas Batum,Portland Trail Blazers,11765500,904,32,0.473,0.263,0.762,9.5,1.8,,0.8,17.1,
+Ty Lawson,Denver Nuggets,11595506,638,35.5,0.485,0.276,0.796,8.4,2,1,,19.3,PG
+DeAndre Jordan,Los Angeles Clippers,11440123,505,33.7,0.509,0.164,0.759,7.9,3,,0.9,,C
+Tyreke Evans,New Orleans Pelicans,11265416,431,33,0.448,0.361,0.814,11.9,,0.5,0.7,18.8,
+JaVale McGee,Philadelphia 76ers,11250000,495,33.9,0.432,0.304,0.82,,7.1,0.3,1.7,20.9,C
+Larry Sanders,Milwaukee Bucks,,400,32.4,0.509,0.059,,7.3,1.3,1.7,0.5,17.7,C
+Danilo Gallinari,Denver Nuggets,10854850,686,31.7,0.533,,0.776,9.5,2.3,0.4,0.8,14.8,
+Stephen Curry,Golden State Warriors,10629213,770,36.3,,0.288,0.765,4.9,5.9,0.9,1.7,24.1,PG
+Marcin Gortat,Washington Wizards,10434782,520,,0.465,0.286,0.748,6.8,1.5,1.9,0.4,11.1,
+Tim Duncan,San Antonio Spurs,10361446,,34.1,0.438,0.381,0.81,2.6,3.4,0.3,1.1,16.9,PF
+Gerald Wallace,Boston Celtics,,910,28.8,0.59,0,0.645,9.3,0.8,1.3,0.6,8.8,
+DeMar DeRozan,Toronto Raptors,10100000,,35.9,0.432,0.306,0.787,4.4,8.6,0.6,1.6,,SG
+Jrue Holiday,New Orleans Pelicans,9904495,344,,0.463,0.164,0.733,10.5,2.6,1.1,1.4,18.7,
+Luol Deng,Miami Heat,9714461,439,32.2,,0.369,0.853,4.3,4.4,0.4,1.4,19.4,
+Anderson Varejao,Cleveland Cavaliers,9704545,274,34.1,0.469,,0.71,5.1,3.1,0.4,1.1,14.4,
+Steve Nash,Los Angeles Lakers,9701000,759,31.1,0.499,0.131,,9.1,1.6,1.3,0.7,17,PG
+Paul Millsap,Atlanta Hawks,9500000,740,29,0.544,0.111,0.671,,2,0.8,1.2,12.5,PF
+Thaddeus Young,Brooklyn Nets,9410869,1280,36.5,0.451,0.334,0.837,5.3,,0.5,1.5,25.4,SF
+Tiago Splitter,San Antonio Spurs,9250000,1048,36.3,0.443,0.371,0.8,4.1,4.2,,,,C
+Jeff Green,Memphis Grizzlies,9200000,830,36.5,0.455,0.345,0.811,6.6,,0.5,1.1,25.2,
+Lance Stephenson,Charlotte Hornets,9.00E+06,800,35.8,0.579,0.104,0.573,,1.5,,1,18.2,SG
+Jordan Hill,Los Angeles Lakers,,840,35.9,0.495,0.326,,8.6,2,1.1,0.8,19.3,C
+Mike Conley,Memphis Grizzlies,8694216,903,39.3,0.496,,0.746,7.1,6.9,0.8,1.7,27.4,PG
+Trevor Ariza,Houston Rockets,8579089,688,36.2,,0.361,0.859,4.4,9.9,0.1,2.4,18.7,SF
+Channing Frye,Orlando Magic,8579088,702,,0.448,0.357,0.817,3.1,8.5,0.3,1.1,,PF
+Marcus Thornton,Phoenix Suns,8575000,,35.9,0.451,0.344,0.793,5.8,2.3,0.8,1.3,18.5,
+Ryan Anderson,New Orleans Pelicans,8491500,569,,0.481,0.379,0.881,6.9,3.5,1,1.2,27.3,PF
+Jeremy Lin,Los Angeles Lakers,8374646,335,35.9,,0.306,0.815,3.7,6.5,0.4,0.8,20.5,PG
+Omer Asik,New Orleans Pelicans,,,,,,,,,,,,
+Monta Ellis,Dallas Mavericks,8360000,904,32,0.473,0.263,0.762,,1.8,0.3,0.8,17.1,SG
+George Hill,Indiana Pacers,,638,35.5,0.485,0.276,0.796,8.4,,1,0.8,19.3,
+Jeff Teague,Atlanta Hawks,8.00E+06,505,33.7,0.509,0.164,0.759,7.9,3,,0.9,,PG
+Dirk Nowitzki,Dallas Mavericks,7974482,431,33,0.448,0.361,0.814,11.9,2.4,0.5,,18.8,PF
+Ersan Ilyasova,Milwaukee Bucks,7900000,495,33.9,0.432,0.304,0.82,5.2,7.1,0.3,1.7,20.9,
+Tayshaun Prince,Memphis Grizzlies,7707865,400,32.4,0.509,0.059,0.791,7.3,1.3,1.7,0.5,,SF
+Boris Diaw,San Antonio Spurs,7500000,686,31.7,0.533,0.036,0.776,9.5,2.3,0.4,,14.8,
+Goran Dragic,Phoenix Suns,7500000,770,36.3,0.491,0.288,0.765,4.9,5.9,,1.7,24.1,SG
+Wesley Matthews,Portland Trail Blazers,,520,26,0.465,0.286,0.748,6.8,,1.9,0.4,11.1,SG
+Isaiah Thomas,Phoenix Suns,7238606,360,34.1,0.438,0.381,0.81,,3.4,0.3,1.1,16.9,PG
+Avery Bradley,Boston Celtics,7191011,910,28.8,0.59,0,,9.3,0.8,1.3,0.6,8.8,PG
+Pau Gasol,Chicago Bulls,7128000,336,35.9,0.432,,0.787,4.4,8.6,0.6,1.6,17.6,PF
+Jose Calderon,New York Knicks,7097191,344,30.9,,0.164,0.733,10.5,2.6,1.1,1.4,18.7,
+Kyrie Irving,Cleveland Cavaliers,,439,,0.444,0.369,0.853,4.3,4.4,0.4,1.4,19.4,PG
+Marvin Williams,Charlotte Hornets,7.00E+06,,34.1,0.469,0.374,0.71,5.1,3.1,0.4,1.1,14.4,PF
+Manu Ginobili,San Antonio Spurs,7.00E+06,759,,0.499,0.131,0.71,9.1,1.6,1.3,0.7,,SG
+Brandon Bass,Boston Celtics,6900000,740,29,,0.111,0.671,6.7,2,0.8,1.2,12.5,PF
+Kevin Martin,Minnesota Timberwolves,6792500,310,24.8,0.449,,0.778,3.6,4,0.5,1.4,10.6,SG
+J.J. Redick,Los Angeles Clippers,6792500,561,30.6,0.529,0.087,,9.2,2.3,1.6,0.7,11,SG
+Wilson Chandler,Denver Nuggets,6757913,358,25,0.514,0.1,0.659,,1,1.3,0.7,10.8,
+Jason Richardson,Philadelphia 76ers,,563,32.7,0.469,0.26,0.608,4.7,,0.1,1.8,10.9,SG
+J.R. Smith,New York Knicks,6515510,535,29.9,0.494,0,0.719,9.5,2.9,,0.8,9.6,SG
+Carl Landry,Sacramento Kings,6500000,995,32.5,0.494,0.323,0.754,2.9,5.9,0.1,,17,PF
+Greivis Vasquez,Toronto Raptors,6400000,446,28.2,0.533,0.372,0.744,7.5,0.5,2.6,0.4,,PG
+Derrick Williams,Sacramento Kings,6331404,823,36.2,0.462,0.332,0.717,5.5,4.7,0.5,1.7,14,
+Jarrett Jack,Brooklyn Nets,6300000,259,25.4,0.521,0,0.759,6.9,0.7,0.6,0.5,,PG
+Kyle Korver,Atlanta Hawks,6253521,803,31.8,0.49,0.254,0.822,7.2,2.2,0.8,,15.6,SG
+Landry Fields,Toronto Raptors,6250000,1280,36.5,0.451,0.334,0.837,5.3,4.8,,1.5,25.4,SG
+Robin Lopez,Portland Trail Blazers,6124729,1048,36.3,0.443,0.371,0.8,4.1,,0.2,0.9,17.3,C
